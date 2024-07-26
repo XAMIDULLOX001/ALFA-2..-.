@@ -1,0 +1,41 @@
+.beta{
+    margin: auto;
+    width: 80%;
+    height: 500px;
+    border: 3px solid red;
+    margin-top: 10px;
+    background-color: black;  
+    padding-top: 50px; 
+}
+body{
+    background-color: rgb(19, 77, 19);
+}
+.bir{
+    background-color: aqua;
+    width: 80%;
+    height: 40%;
+    margin: auto;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+.ikki{
+   background-color: aqua;
+    width: 80%;
+    height: 40%;
+    margin: auto;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 50px; 
+}
+.alfa{
+    height: 100px;
+    width: 500px;
+    margin: auto;
+    background-color: rgb(0, 0, 0);
+    color: whitesmoke;
+    padding-top: 10px;
+    padding-left: 150px;
+}
